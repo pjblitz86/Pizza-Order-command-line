@@ -27,9 +27,9 @@ public class Asortimentas {
 		prekes.add(new Preke(nextIndex++, "Astrioji", "Astrus padazas", 3.4d ));
 		prekes.add(new Preke(nextIndex++, "Havaju", "Persikai", 6.4d ));
 		prekes.add(new Preke(nextIndex++, "Cezario", "su salotom", 2.4d ));
-		prekes.add(new Preke(nextIndex++, "Svieziu darzoviu", "Astrus padazas", 2.5d ));
-		prekes.add(new Preke(nextIndex++, "Graikiskos", "Astrus padazas", 4.7d ));
-		prekes.add(new Preke(nextIndex++, "Coca-cola", "Astrus padazas", 1.5d ));
+		prekes.add(new Preke(nextIndex++, "Svieziu darzoviu", "su ananasais", 2.5d ));
+		prekes.add(new Preke(nextIndex++, "Graikiskos", "Salotos", 4.7d ));
+		prekes.add(new Preke(nextIndex++, "Coca-cola", "The only one", 1.5d ));
 		prekes.add(new Preke(nextIndex++, "Koldunai", "Kepti koldunai", 2.4d ));
 	}
 	

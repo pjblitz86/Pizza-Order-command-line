@@ -55,7 +55,6 @@ public class Order {
 		return true;
 	}
 	
-	// impro by chat
 	public boolean deleteItemById(Long id) {
 	    return items.removeIf(item -> item.getId().equals(id));
 	}
